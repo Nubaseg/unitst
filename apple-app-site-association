@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "2546T96TMM.dev.uastar.egroshi",
+            "paths": ["*"]
+        }]
+    }
+}
